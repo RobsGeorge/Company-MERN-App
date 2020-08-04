@@ -7,7 +7,7 @@ To start the project:
 
 ## First: Frontend
 Frontend directory consists of (public and src directories), where src directory consists of React components directory and the App.js file.
-Open the Terminal and run the following:
+Open the Terminal and go to `frontend` folder using `cd frontend` and run the following:
 
 2. Run `npm install create-react-app react-router-dom react-bootstrap axios` then Run `npm start` to start the installed frontend packages (create-react-app, react-router-dom, react-bootstrap, bootstrap, axios)
 Runs the app in the development mode.
