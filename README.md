@@ -19,8 +19,8 @@ Open http://localhost:3000 to view it in the browser.
 4. Run `npm install nodemon express mongoose body-parser axios` to install packages (nodemon, mongoose, body-parser, axios, express)
 5. Open another terminal and run `mongod`, You should have MongoDB installed on your computer to run this application
 6. Open a third terminal and run `mongo`, Database runs locally on port `27017`
-7. Return to the first terminal tp run the server and run `nodemon server.js`
+7. Return to the first terminal to run the server and run `nodemon server.js`
 
 Open http://localhost:3000 to view it in the browser.
 
-### Robeir Samir George (August 2020)
+### Author: Robeir Samir George (August 2020)
